@@ -22,6 +22,3 @@ dependencies:
 - name: ph-payments-service-serverless
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.7
-- name: ph-user-service-serverless
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.77
